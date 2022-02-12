@@ -3,3 +3,4 @@
 
 main.c中使用到了**正点原子提供的sys和delay文件**，可以在[正点原子资料下载中心](http://www.openedv.com/docs/boards/stm32/zdyz_stm32f429_shuixing.html)找到教程和文件。
 # 演示视频
+https://www.bilibili.com/video/BV1WP4y1P727
